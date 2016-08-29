@@ -11,5 +11,5 @@ def ask question
   end
 end
 
-answer = ask 'Do you like pancakes?'
-puts answer
+# answer = ask 'Do you like pancakes?'
+# puts answer
