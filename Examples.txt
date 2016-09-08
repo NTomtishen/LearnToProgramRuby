@@ -2,3 +2,12 @@
 - Don't give Quiche a chance
 - Mutants are IN!
 - Life-Forms? No Thanks
+- - Arrays within Arrays
+  - Crazy Stuff
+  - - Arrays Within Arrays within Arrays
+    - Arrayception
+- Now back to your original Array
+- '42'
+- 42
+- 'true'
+- false
